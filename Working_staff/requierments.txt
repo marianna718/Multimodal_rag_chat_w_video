@@ -1,0 +1,6 @@
+pip3 install python-dotenv
+pip install lancedb
+pip install pytubefix
+pip install youtube-transcript-api
+pip install predictionguard
+pip install langchain-core

@@ -1,6 +1,6 @@
-# Multimodal RUG System Chat
+# Multimodal RAG System Chat
 ### Overview
-The Multimodal RUG System Chat lets you interact with an AI using text and video. It processes different types of inputs to generate intelligent, relevant responses. This system is designed for fast, local inference without relying on external APIs. (thou  its still in process)
+The Multimodal RAG System Chat lets you interact with an AI using text and video. It processes different types of inputs to generate intelligent, relevant responses. This system is designed for fast, local inference without relying on external APIs. (thou  its still in process)
 
 ### Features
 Text chat: Talk to the AI with natural language.
